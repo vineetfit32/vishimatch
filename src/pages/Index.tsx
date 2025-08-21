@@ -93,12 +93,12 @@ const Index = () => {
         </div>
         
         <h1 className="text-6xl md:text-8xl font-bold text-white mb-6 drop-shadow-lg">
-          Find Your
+          Vishi
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-white to-pink-200"> Match</span>
         </h1>
         
         <p className="text-xl md:text-2xl text-white/90 mb-12 leading-relaxed max-w-2xl mx-auto">
-          Connect with amazing people who share your interests and values. Start your love story today.
+          Connect with amazing people who share your interests and values. Start your love story on Vishi Match today.
         </p>
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
